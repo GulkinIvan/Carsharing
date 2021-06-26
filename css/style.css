@@ -509,3 +509,9 @@ a {
 .footer__social-item {
   margin: 0 15px;
 }
+
+@media(max-width: 860px) {
+  .menu__list {
+    display: none;
+  }
+} 
